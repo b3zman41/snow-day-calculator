@@ -17,6 +17,5 @@ This was another one of those projects that I had in my mind for a long time but
 - AngularJS
 - Angular Material
 - Bower
-- 
 
 The combination of all these awesome technologies enabled me to do some swift and rapid development.
